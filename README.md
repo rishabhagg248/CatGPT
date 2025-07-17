@@ -267,3 +267,5 @@ A: What's the point of anything? *stares philosophically*
 
 ### Disclaimer
 No actual AI was harmed in the making of this project. Side effects may include uncontrollable urge to pet cats, sudden understanding of feline superiority, and tendency to respond to complex questions with "meow".
+
+Take this repository with a grain of salt (or a ball of yarn, your wish). It is just a fun little joke!
